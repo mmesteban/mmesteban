@@ -7,6 +7,7 @@ Soon after starting my arhcitecture studies I realised my favourite part of it w
 
 ## Links 
 [Blog (Under Construction)](https://cacharrazo.wordpress.com/)<br/>
+--------------------------
 [I once was an architect](https://issuu.com/montoir/docs/2018_01_16_portfolio)
 
 
