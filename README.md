@@ -2,7 +2,7 @@
 
 # Manuel Montoro Esteban
 
-Soon after starting my arhcitecture studies I realised my favourite part of it was solving geometric problems. Logically, this left me on my path of learning software development. 
+Soon after starting my architecture studies I realised my favourite part of it was solving geometric problems. Logically, this left me on my path of learning software development. 
 
 
 ## Links 
